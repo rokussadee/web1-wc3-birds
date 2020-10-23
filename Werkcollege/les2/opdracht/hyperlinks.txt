@@ -1,0 +1,59 @@
+Jouw naam
+Homepage
+Work
+contact
+Welcome at Mi website 
+Things to see at my website:
+Homepage
+It is what you are looking at right now.
+Work
+Here can find all the things I created
+Contact
+Go here if you wanne call mi on mi cellfeune.
+Made with by Jouw naam
+
+
+Jouw naam
+Homepage
+Work
+contact
+Here is the information to contact me:
+Email: voornaam.achternaam@student.ehb.be
+Phone: 0412345678
+Made with by Luka verhoeven
+
+
+Jouw naam
+Homepage
+Work
+contact
+Here is my anchor navigation:
+Child selector
+Descendant selector
+Adjacent sibling
+General sibling
+Child selector
+This is an example of a child selector.
+
+This element is no direct child.
+
+Descendant selector
+This is element is targeted by the descendant selector.
+
+This nested element is also targeted by the descendant selector.
+
+Adjacent sibling selector
+This is element is part of the selector but is not targeted.
+
+This element is the ajacent sibling.
+
+General sibling selector
+This is a general sibling of the title above.
+
+This is a general sibling of the title above.
+
+Made with by Luka verhoeven
+
+This text is just for making the page longer
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde distinctio quidem, repellendus reprehenderit officiis error libero, ut dolor ducimus et recusandae veniam accusamus blanditiis, quos. Cum autem facilis ut neque. aLorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi dignissimos, animi itaque fuga inventore deserunt, repellendus alias molestias explicabo totam velit, maiores error, provident in. Qui amet atque expedita perspiciatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. In aperiam, quas eius voluptatibus vitae expedita sapiente repudiandae quo maiores perspiciatis, pariatur voluptas ipsum quisquam voluptatem quaerat animi! Iste beatae, omnis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem iste odit, nisi cum minima eveniet error deserunt harum qui at, eaque, neque tempora dolore quam iure voluptatum perferendis ab. Possimus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo repudiandae ab voluptatem sint nulla similique alias tempora delectus, atque numquam molestiae! Esse quaerat nesciunt optio aliquid perspiciatis pariatur impedit, nulla. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde distinctio quidem, repellendus reprehenderit officiis error libero, ut dolor ducimus et recusandae veniam accusamus blanditiis, quos. Cum autem facilis ut neque. aLorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi dignissimos, animi itaque fuga inventore deserunt, repellendus alias molestias explicabo totam velit, maiores error, provident in. Qui amet atque expedita perspiciatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. In aperiam, quas eius voluptatibus vitae expedita sapiente repudiandae quo maiores perspiciatis, pariatur voluptas ipsum quisquam voluptatem quaerat animi! Iste beatae, omnis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem iste odit, nisi cum minima eveniet error deserunt harum qui at, eaque, neque tempora dolore quam iure voluptatum perferendis ab. Possimus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo repudiandae ab voluptatem sint nulla similique alias tempora delectus, atque numquam molestiae! Esse quaerat nesciunt optio aliquid perspiciatis pariatur impedit, nulla. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde distinctio quidem, repellendus reprehenderit officiis error libero, ut dolor ducimus et recusandae veniam accusamus blanditiis, quos. Cum autem facilis ut neque. aLorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi dignissimos, animi itaque fuga inventore deserunt, repellendus alias molestias explicabo totam velit, maiores error, provident in. Qui amet atque expedita perspiciatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. In aperiam, quas eius voluptatibus vitae expedita sapiente repudiandae quo maiores perspiciatis, pariatur voluptas ipsum quisquam voluptatem quaerat animi! Iste beatae, omnis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem iste odit, nisi cum minima eveniet error deserunt harum qui at, eaque, neque tempora dolore quam iure voluptatum perferendis ab. Possimus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo repudiandae ab voluptatem sint nulla similique alias tempora delectus, atque numquam molestiae! Esse quaerat nesciunt optio aliquid perspiciatis pariatur impedit, nulla. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde distinctio quidem, repellendus reprehenderit officiis error libero, ut dolor ducimus et recusandae veniam accusamus blanditiis, quos. Cum autem facilis ut neque. aLorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi dignissimos, animi itaque fuga inventore deserunt, repellendus alias molestias explicabo totam velit, maiores error, provident in. Qui amet atque expedita perspiciatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. In aperiam, quas eius voluptatibus vitae expedita sapiente repudiandae quo maiores perspiciatis, pariatur voluptas ipsum quisquam voluptatem quaerat animi! Iste beatae, omnis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem iste odit, nisi cum minima eveniet error deserunt harum qui at, eaque, neque tempora dolore quam iure voluptatum perferendis ab. Possimus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo repudiandae ab voluptatem sint nulla similique alias tempora delectus, atque numquam molestiae! Esse quaerat nesciunt optio aliquid perspiciatis pariatur impedit, nulla. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde distinctio quidem, repellendus reprehenderit officiis error libero, ut dolor ducimus et recusandae veniam accusamus blanditiis, quos. Cum autem facilis ut neque. aLorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi dignissimos, animi itaque fuga inventore deserunt, repellendus alias molestias explicabo totam velit, maiores error, provident in. Qui amet atque expedita perspiciatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. In aperiam, quas eius voluptatibus vitae expedita sapiente repudiandae quo maiores perspiciatis, pariatur voluptas ipsum quisquam voluptatem quaerat animi! Iste beatae, omnis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem iste odit, nisi cum minima eveniet error deserunt harum qui at, eaque, neque tempora dolore quam iure voluptatum perferendis ab. Possimus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo repudiandae ab voluptatem sint nulla similique alias tempora delectus, atque numquam molestiae! Esse quaerat nesciunt optio aliquid perspiciatis pariatur impedit, nulla. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde distinctio quidem, repellendus reprehenderit officiis error libero, ut dolor ducimus et recusandae veniam accusamus blanditiis, quos. Cum autem facilis ut neque. aLorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi dignissimos, animi itaque fuga inventore deserunt, repellendus alias molestias explicabo totam velit, maiores error, provident in. Qui amet atque expedita perspiciatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. In aperiam, quas eius voluptatibus vitae expedita sapiente repudiandae quo maiores perspiciatis, pariatur voluptas ipsum quisquam voluptatem quaerat animi! Iste beatae, omnis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem iste odit, nisi cum minima eveniet error deserunt harum qui at, eaque, neque tempora dolore quam iure voluptatum perferendis ab. Possimus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo repudiandae ab voluptatem sint nulla similique alias tempora delectus, atque numquam molestiae! Esse quaerat nesciunt optio aliquid perspiciatis pariatur impedit, nulla.

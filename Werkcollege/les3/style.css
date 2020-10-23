@@ -1,0 +1,36 @@
+body {
+    background-image: url(img/pattern.jpg);
+    background-size: 406px;
+    font-family: sans-serif;
+    text-align: center;
+    width: 800px;
+    margin: auto;
+}
+
+figcaption {
+    background-color: #F8E3B7;
+    margin: auto;
+    font-weight: bold;
+    width: 402px;
+    margin: auto;
+}
+
+header {
+    color: #35B980;
+}
+
+.birds {
+    background-color: rgba(255, 255, 255, 90%)
+}
+
+.toco {
+    background-color: rgba(226, 253, 208, 0.9);
+}
+
+.paradise {
+    background-color: rgba(191, 245, 255, 0.9);
+}
+
+.sword {
+    background-color: rgba(254, 255, 212, 0.9);
+}

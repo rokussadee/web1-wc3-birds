@@ -1,0 +1,7 @@
+.current {
+    color: red;
+}
+
+li>a {
+    color: #FF0C54;
+}
