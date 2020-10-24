@@ -1,0 +1,39 @@
+div {
+    height: 300px;
+}
+
+.rastafari {
+    background-image: linear-gradient(140deg, red, yellow, green);
+}
+
+.overlay {
+    background-image:
+        linear-gradient(to right bottom, rgba(255, 0, 0, 0.50), rgba(0, 0, 255, 0.50)),
+        url("https://picsum.photos/1200/700");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.blueprint {
+    background-image:
+        repeating-linear-gradient(transparent 0px, transparent 102px, white 102px, white 105px),
+        repeating-linear-gradient(to right, transparent 0px, transparent 102px, white 102px, white 105px),
+        repeating-linear-gradient(transparent 0px, transparent 20px, white 20px, white 21px),
+        repeating-linear-gradient(to right, transparent 0px, transparent 20px, white 20px, white 21px);
+    background-color: rgb(35, 102, 153);
+}
+
+.tablecloth {
+    background-image:
+        repeating-linear-gradient(rgba(213, 63, 62, 0.75) 0px, rgba(213, 63, 62, 0.75) 20px, transparent 20px, transparent 40px),
+        repeating-linear-gradient(to right, rgba(213, 63, 62, 0.75) 0px, rgba(213, 63, 62, 0.75) 20px, transparent 20px, transparent 40px);
+    background-color: rgb(255, 255, 255);
+}
+
+.galaxy {
+    background-image: url("/img/planets/2.png"), url("/img/planets/1.png"), url("/img/space-cartoon-background-for-a-game-vector-21429384.jpg");
+    background-repeat: no-repeat, no-repeat, repeat;
+    background-size: 8%, 10%, 40%;
+    background-position: 10% 25%, 65% 80%, 0% 0%;
+}
