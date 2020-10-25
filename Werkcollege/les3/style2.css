@@ -19,8 +19,8 @@ div {
     background-image:
         repeating-linear-gradient(transparent 0px, transparent 102px, white 102px, white 105px),
         repeating-linear-gradient(to right, transparent 0px, transparent 102px, white 102px, white 105px),
-        repeating-linear-gradient(transparent 0px, transparent 20px, white 20px, white 21px),
-        repeating-linear-gradient(to right, transparent 0px, transparent 20px, white 20px, white 21px);
+        repeating-linear-gradient(transparent 0px, transparent 20px, rgba(255, 255, 255, 0.50)20px, rgba(255, 255, 255, 0.50) 21px),
+        repeating-linear-gradient(to right, transparent 0px, transparent 20px, rgba(255, 255, 255, 0.50) 20px, rgba(255, 255, 255, 0.50) 21px);
     background-color: rgb(35, 102, 153);
 }
 
